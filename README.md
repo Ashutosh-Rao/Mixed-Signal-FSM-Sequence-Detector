@@ -245,6 +245,8 @@ endmodule
 
 ## Makerchip Plot
 
+![image](https://user-images.githubusercontent.com/60297156/193257363-136ff777-37e1-411b-a892-dc6b60a56a81.png)
+
 ## Netlists
 
 ## Output Waveforms
