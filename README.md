@@ -2,6 +2,27 @@
 Mixed signal circuit implemented as a part of the Mixed Signal SoC Design Hackathon by IIT Bombay and Google
 
 ## Table of Contents
+- [Abstract](#abstract)
+- [Reference Circuit Diagram](#reference-circuit-diagram)
+- [Reference Waveform](#reference-waveform)
+- [Circuit Explanation](#circuit-explanation)
+- [Truth Table](#truth-table)
+- [Software Used](#software-used)
+  * [eSim](#esim)
+  * [NgSpice](#ngspice)
+  * [Makerchip](#makerchip-1)
+  * [Verilator](#verilator)
+- [Circuit Schematic in eSim](#circuit-schematic-in-esim)
+- [Verilog Code](#verilog-code)
+- [Makerchip](#makerchip)
+- [Makerchip Plot](#makerchip-plot)
+- [Netlists](#netlists)
+- [Output Waveforms](#output-waveforms)
+- [Steps to run generate NgVeri Model](#steps-to-run-generate-ngveri-model)
+- [Steps to run this project](#steps-to-run-this-project)
+- [Author](#author)
+- [Acknowledgements](#acknowledgements)
+- [References](#references)
 
 ## Abstract
 
@@ -9,11 +30,11 @@ Mixed signal circuit implemented as a part of the Mixed Signal SoC Design Hackat
 
 ## Reference Waveform
 
-## Circuit Explaination
+## Circuit Explanation
 
 ## Truth Table
 
-## Open Source Tools Used
+## Software Used
 eSim
 
 It is an Open Source EDA developed by FOSSEE, IIT Bombay. It is used for electronic circuit simulation. It is made by the combination of two software namely NgSpice and KiCAD. For more details refer:
