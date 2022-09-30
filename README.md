@@ -27,8 +27,14 @@ Mixed signal circuit implemented as a part of the Mixed Signal SoC Design Hackat
 ## Abstract
 
 ## Reference Circuit Diagram
+![image](https://user-images.githubusercontent.com/60297156/193205827-b9802c16-607f-4f15-949e-d03e673e867a.png)
+
 
 ## Reference Waveform
+![image](https://user-images.githubusercontent.com/60297156/193205925-73db6ac7-634f-4d49-a776-d668945b86ca.png)
+
+![image](https://user-images.githubusercontent.com/60297156/193205970-39a95517-af7e-4f4a-afd8-f5b9d2152ea1.png)
+
 
 ## Circuit Explanation
 
