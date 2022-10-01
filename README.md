@@ -25,6 +25,14 @@ Mixed signal circuit implemented as a part of the Mixed Signal SoC Design Hackat
 - [References](#references)
 
 ## Abstract
+An FSM is an abstract machine that can exist in 
+only one of a finite number of states at a time. A Moore FSM 
+is one which depends only on the value of present state and 
+not the value of input. A sequence detector is a circuit that 
+takes an input string of bits and generates an output ‘HIGH’
+when the target sequence has been detected. Analog input 
+from a CMOS inverter is fed into this digital block and output 
+is observed
 
 ## Reference Circuit Diagram
 ![image](https://user-images.githubusercontent.com/60297156/193205827-b9802c16-607f-4f15-949e-d03e673e867a.png)
