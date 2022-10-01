@@ -309,6 +309,10 @@ SC2  Net-_SC1-Pad1_ in GND GND sky130_fd_pr__nfet_01v8
 ```
 
 ## Output Waveforms
+Vin
+![image](https://user-images.githubusercontent.com/60297156/193414419-cff091e4-7166-4c38-b669-9a1d8d6b4763.png)
+
+
 
 ## Steps to run generate NgVeri Model
 1. Open eSim
