@@ -94,7 +94,7 @@ It is a tool which converts Verilog code to C++ objects. For more details refer:
 https://www.veripool.org/verilator/
 
 ## Circuit Schematic In eSim
-![image](https://user-images.githubusercontent.com/60297156/193401656-135924e3-ac4c-4b73-bc89-6c42feb85c28.png)
+![image](https://user-images.githubusercontent.com/60297156/193402456-c46a1d6a-fd54-4520-bf20-c83939447e23.png)
 
 
 ## Verilog Code
