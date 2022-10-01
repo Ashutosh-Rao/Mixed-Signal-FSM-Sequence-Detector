@@ -1,0 +1,25 @@
+* /home/ashutoshrao/Desktop/ashutosh_seqdet.cir
+
+* EESchema Netlist Version 1.1 (Spice format) creation date: Sat 01 Oct 2022 02:52:21 PM IST
+
+* To exclude a component from the Spice Netlist add [Spice_Netlist_Enabled] user FIELD set to: N
+* To reorder the component spice node sequence add [Spice_Node_Sequence] user FIELD and define sequence: 2,1,0
+
+* Sheet Name: /
+U3  Net-_U3-Pad1_ Net-_U3-Pad2_ Net-_U3-Pad3_ Net-_U3-Pad4_ ashutosh_seqdet		
+U7  Net-_U3-Pad4_ out dac_bridge_1		
+U6  Net-_SC1-Pad1_ Net-_U4-Pad~_ Net-_U5-Pad~_ Net-_U3-Pad1_ Net-_U3-Pad2_ Net-_U3-Pad3_ adc_bridge_3		
+scmode1  SKY130mode		
+v2  in GND pulse		
+v3  Net-_U4-Pad~_ GND pulse		
+v4  Net-_U5-Pad~_ GND pulse		
+v1  Net-_SC1-Pad3_ GND DC		
+U8  out plot_v1		
+U1  in plot_v1		
+U5  Net-_U5-Pad~_ plot_v1		
+U2  Net-_SC1-Pad1_ plot_v1		
+U4  Net-_U4-Pad~_ plot_v1		
+SC1  Net-_SC1-Pad1_ in Net-_SC1-Pad3_ Net-_SC1-Pad3_ sky130_fd_pr__pfet_01v8		
+SC2  Net-_SC1-Pad1_ in GND GND sky130_fd_pr__nfet_01v8		
+
+.end
