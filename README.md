@@ -19,7 +19,6 @@ Mixed signal circuit implemented as a part of the Mixed Signal SoC Design Hackat
 - [Netlists](#netlists)
 - [Output Waveforms](#output-waveforms)
 - [Steps to run generate NgVeri Model](#steps-to-run-generate-ngveri-model)
-- [Steps to run this project](#steps-to-run-this-project)
 - [Author](#author)
 - [Acknowledgements](#acknowledgements)
 - [References](#references)
@@ -325,9 +324,6 @@ Vout
 6. Click on Run Verilog to NgSpice Converter
 7. Debug if any errors
 8. Model created successfully
-
-
-## Steps to run this project
 
 
 ## Author
