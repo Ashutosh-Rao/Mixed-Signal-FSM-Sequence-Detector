@@ -45,6 +45,26 @@ is observed
 
 
 ## Circuit Explanation
+In this paper, a Finite State Machine based sequence 
+detector is proposed. This is a Moore based FSM, where the 
+output is only dependent on the present state. This FSM 
+block is a digital block consisting of three inputs, which are 
+clock, sequence_in and reset. It has one output, the 
+detector_out. This is coded in Verilog.
+For the analog part, a CMOS inverter is implemented 
+using MOS transistors. The voltage is supplied to the CMOS 
+inverter. The output of the inverter is fed into an ADC block 
+(Analog-to-Digital). The output from this block is passed as
+input to the FSM digital block along with additional voltage 
+supplies for the clock and reset. The output of the FSM 
+block will be a single output which goes high when the 
+required sequence is detected.
+The CMOS inverter will be made up of pmos and nmos. The FSM to be implemented will be a 
+1011 sequence detector. When this particular sequence is 
+detected, the detector_out will show an output of 1. This is 
+passed through a DAC block (Digital-to-Analog), from 
+which the output voltage is measured. 
+
 
 ## Truth Table
 
