@@ -336,8 +336,8 @@ Ashutosh Rao, BTech (Electronics and Communication), PES University, Bangalore, 
 4.	Sumanto Kar (eSim Team, FOSSEE, IIT Bombay)
 
 ## References
-[1] 
+[1] https://www.fpga4student.com
   
-[2] 
+[2] https://www.tutorialspoint.com/vlsi_design
   
-[3] 
+[3] https://www.studytronics.weebly.com/sequence-detectors.html
