@@ -6,7 +6,7 @@ Mixed signal circuit implemented as a part of the Mixed Signal SoC Design Hackat
 - [Reference Circuit Diagram](#reference-circuit-diagram)
 - [Reference Waveform](#reference-waveform)
 - [Circuit Explanation](#circuit-explanation)
-- [Truth Table](#truth-table)
+- [State Diagram](#state-diagram)
 - [Software Used](#software-used)
   * [eSim](#esim)
   * [NgSpice](#ngspice)
@@ -64,7 +64,7 @@ passed through a DAC block (Digital-to-Analog), from
 which the output voltage is measured. 
 
 
-## Truth Table
+## State Diagram
 
 ## Software Used
 eSim
