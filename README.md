@@ -18,7 +18,6 @@ Mixed signal circuit implemented as a part of the Mixed Signal SoC Design Hackat
 - [Makerchip Plot](#makerchip-plot)
 - [Netlists](#netlists)
 - [Output Waveforms](#output-waveforms)
-- [Steps to run generate NgVeri Model](#steps-to-run-generate-ngveri-model)
 - [Author](#author)
 - [Acknowledgements](#acknowledgements)
 - [References](#references)
@@ -315,25 +314,19 @@ Vout
 ![image](https://user-images.githubusercontent.com/60297156/193414483-7b859d3a-97ba-4295-94a5-ee3de73855c7.png)
 
 
-## Steps to run generate NgVeri Model
-1. Open eSim
-2. Run NgVeri-Makerchip 
-3. Add top level verilog file in Makerchip Tab
-4. Click on NgVeri tab
-5. Add dependency files
-6. Click on Run Verilog to NgSpice Converter
-7. Debug if any errors
-8. Model created successfully
-
-
 ## Author
 Ashutosh Rao, BTech (Electronics and Communication), PES University, Bangalore, Karnataka, 560085
 
 ## Acknowledgements
-1.	Kunal Ghosh (Co-Founder, VLSI System Design Pvt. Ltd.)
-2.	FOSSEE, IIT Bombay	
-3.	Steve Hoover (Founder, Redwood EDA)
-4.	Sumanto Kar (eSim Team, FOSSEE, IIT Bombay)
+1. Kunal Ghosh (Co-Founder, VLSI System Design Pvt. Ltd.)
+2. FOSSEE, IIT Bombay	
+3. Steve Hoover (Founder, Redwood EDA)
+4. Sumanto Kar (eSim Team, FOSSEE, IIT Bombay)](http://iitb.ac.in/
+5. https://www.google.co.in/
+6. https://fossee.in/
+7. https://spoken-tutorial.org/
+8. https://www.vlsisystemdesign.com/
+9. https://www.c2s.gov.in/)
 
 ## References
 [1] https://www.fpga4student.com
