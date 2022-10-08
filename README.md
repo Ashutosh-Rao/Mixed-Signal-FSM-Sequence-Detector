@@ -321,12 +321,13 @@ Ashutosh Rao, BTech (Electronics and Communication), PES University, Bangalore, 
 1. Kunal Ghosh (Co-Founder, VLSI System Design Pvt. Ltd.)
 2. FOSSEE, IIT Bombay	
 3. Steve Hoover (Founder, Redwood EDA)
-4. Sumanto Kar (eSim Team, FOSSEE, IIT Bombay)](http://iitb.ac.in/
-5. https://www.google.co.in/
-6. https://fossee.in/
-7. https://spoken-tutorial.org/
-8. https://www.vlsisystemdesign.com/
-9. https://www.c2s.gov.in/)
+4. Sumanto Kar (eSim Team, FOSSEE, IIT Bombay)
+5. http://iitb.ac.in/
+6. https://www.google.co.in/
+7. https://fossee.in/
+8. https://spoken-tutorial.org/
+9. https://www.vlsisystemdesign.com/
+10. https://www.c2s.gov.in/)
 
 ## References
 [1] https://www.fpga4student.com
