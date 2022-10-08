@@ -65,6 +65,9 @@ which the output voltage is measured.
 
 
 ## State Diagram
+![image](https://user-images.githubusercontent.com/60297156/194713437-2845f45f-db6b-400e-8fe6-9f1bba8521d1.png)
+
+
 
 ## Software Used
 eSim
